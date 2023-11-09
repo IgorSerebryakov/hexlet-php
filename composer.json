@@ -1,0 +1,14 @@
+{
+    "name": "xen/hexlet-php",
+    "description": "1.0.0",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "IgorSerebryakov",
+            "email": "serebryakov09@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
